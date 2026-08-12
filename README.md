@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de exercícios de lógica de programação! Aqui reuni **7 desafios práticos** que simulam situações do dia a dia — desde o funcionamento de um caixa eletrônico até um sistema de votação e controle de notas escolares.
 
-O objetivo principal deste projeto é exercitar conceitos fundamentais como estruturas de repetição (`while`, `for`), condicionais (`if/else`) e manipulação de variáveis.
+O objetivo principal deste projeto é exercitar conceitos fundamentais como estruturas de repetição (`for`), condicionais (`if/else`) e manipulação de variáveis.
 
 ---
 
